@@ -24,8 +24,6 @@ Download here : https://drive.google.com/file/d/1NdM9oOzUxihNngjGaQsHT_42wUasqBA
 similarity.pkl: Pickle file containing the precomputed similarity matrix used for recommendations.
 Download here : https://drive.google.com/file/d/1AeWcfVrj8f9EcK1Xt79pq_mZLILh_kzZ/view?usp=sharing
 
-## 🌐 Live Demo
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](YOUR_STREAMLIT_CLOUD_URL)
 
 ## 🛠️ Project Structure
 ```
@@ -36,13 +34,6 @@ Download here : https://drive.google.com/file/d/1AeWcfVrj8f9EcK1Xt79pq_mZLILh_kz
 └── requirements.txt   # Dependencies
 ```
 
-Replace `YOUR_STREAMLIT_CLOUD_URL` after deployment.
-```
 
-### Key Features:
-- 7-line quick start
-- Clear requirements
-- Streamlit deployment badge
-- Visual project structure
-- Lightweight (perfect for GitHub/Streamlit)
+
 
